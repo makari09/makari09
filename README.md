@@ -12,10 +12,6 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/makari-gmal-hnaa" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn link">
-    </a>
-    <a href="https://twitter.com/KeshavU21610792" target="_blank">
-        <img src=https://store-images.s-microsoft.com/image/apps.31120.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.bc4172bd-63f0-455a-9acd-5457f44e4473>
-    </a>
 </div>
 <br/>
 
